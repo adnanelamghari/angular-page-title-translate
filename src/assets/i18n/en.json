@@ -1,0 +1,13 @@
+{
+  "TOOLBAR": {
+    "WELCOME": "Welcome",
+    "PAGE_1": "Page 1",
+    "PAGE_2": "Page 2"
+  },
+  "PAGE_1": {
+    "TITLE": "Page title 1"
+  },
+  "PAGE_2": {
+    "TITLE": "Page title 2"
+  }
+}

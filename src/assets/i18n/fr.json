@@ -1,0 +1,14 @@
+{
+  "DEFAULT_TITLE": "Home",
+  "TOOLBAR": {
+    "WELCOME": "Bienvenue",
+    "PAGE_1": "Page 1",
+    "PAGE_2": "Page 2"
+  },
+  "PAGE_1": {
+    "TITLE": "Titre de la page 1"
+  },
+  "PAGE_2": {
+    "TITLE": "Titre de la page 2"
+  }
+}
